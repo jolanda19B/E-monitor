@@ -1,2 +1,0 @@
-# E-monitor
-Essensanzeige
