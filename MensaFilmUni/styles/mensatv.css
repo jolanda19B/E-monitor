@@ -40,9 +40,9 @@ body {
     float: left;
     width: calc(50% - 92px);
     height: 200px;
-    background-color: #41B0FF;
+    background-color: #1f7c69;
     border-left-width: 12px;
-    border-left-color: #41B0FF;
+    border-left-color: #1f7c69;
     border-left-style: solid;
     padding: 25px;
     margin: 15px;

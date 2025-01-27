@@ -40,9 +40,9 @@ body {
     float: left;
     width: calc(50% - 92px);
     height: 200px;
-    background-color: #41B0FF;
+    background-color: #df879b;
     border-left-width: 12px;
-    border-left-color: #41B0FF;
+    border-left-color: #df879b;
     border-left-style: solid;
     padding: 25px;
     margin: 15px;
@@ -64,7 +64,7 @@ body {
     font-size: 38px;
     margin: 0;
     margin-top: 10px;
-    color: white
+    color: white;
 }
 
 .footer {
